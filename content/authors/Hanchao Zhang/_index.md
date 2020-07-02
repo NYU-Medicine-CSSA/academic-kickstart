@@ -28,10 +28,14 @@ education:
     institution: New York University
     year: Present
 
-  - course: M.S. in Biostatistics and Data Science
+  - course: M.S. in Biostatistics
     institution: Cornell University
     year: 2018
-
+    
+  - course: B.A. in Statistics
+    institution: Capital University of Economics and Business
+    year: 2017
+    
   - course: B.A. in International Finance
     institution: Capital University of Economics and Business
     year: 2017
