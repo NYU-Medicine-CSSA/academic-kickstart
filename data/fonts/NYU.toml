@@ -1,0 +1,11 @@
+# Font style metadata
+name = "NYU"
+
+# Optional Google font URL
+google_fonts = "Fjalla+One|Notable|Permanent+Marker"
+
+# Font families
+heading_font = "Permanent Marker"
+body_font = "Notable"
+nav_font = "Notable"
+mono_font = "Fjalla One"
